@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     FrameworkResOverlayNuwa \
     SettingsOverlayNuwa \
     SystemUIOverlayNuwa \
+    WifiResCommonMainline_Sys \
     WifiOverlayNuwa
 
 # Sensors
